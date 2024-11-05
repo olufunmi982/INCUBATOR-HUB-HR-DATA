@@ -43,3 +43,6 @@ Conditional columns were added to filter down some data so as to get a better vi
 
 DATA VISUALIZATION
 ![image](https://github.com/user-attachments/assets/38effad4-4ecc-4e75-b994-a77db920c021)
+![IMG-20241105-WA0006 (1)](https://github.com/user-attachments/assets/5d42f14f-fc26-444c-8184-d08f4611a4f1)
+
+
