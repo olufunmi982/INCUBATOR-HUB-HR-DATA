@@ -45,6 +45,7 @@ DATA VISUALIZATION
 ![image](https://github.com/user-attachments/assets/38effad4-4ecc-4e75-b994-a77db920c021)
 ![IMG-20241105-WA0006 (1)](https://github.com/user-attachments/assets/5d42f14f-fc26-444c-8184-d08f4611a4f1)
 ![IMG-20241105-WA0003 (2)](https://github.com/user-attachments/assets/7f391579-20c3-4d47-93d2-b3da1bda1118)
+![IMG-20241105-WA0004](https://github.com/user-attachments/assets/82cc6f94-8e42-4d79-ab05-0e26022a58f4)
 
 
 
